@@ -2,8 +2,6 @@
 
 Finch makes it easy to program with sparse and structured tensors, using compiler technology.
 
-# Distributions
-
 | Registry | URL |
 |---|---|
 | PyPI | https://pypi.org/org/finch-tensor |
